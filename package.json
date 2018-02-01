@@ -1,0 +1,14 @@
+{
+  "name": "lst",
+  "version": "1.0.0",
+  "description": "A command line listing application",
+  "main": "lst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Johnson",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.13.0"
+  }
+}
